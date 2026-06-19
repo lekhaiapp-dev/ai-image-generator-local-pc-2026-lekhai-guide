@@ -51,4 +51,41 @@ It allows users to:
 - AUTOMATIC1111 WebUI
 
 ### Step 2: Use Prompt System
-Navigate to:[/prompts/prompts.md]
+Navigate to:
+### Step 3: Generate Image
+Use Lekhai or local UI:
+
+Prompt Example:
+
+---
+
+## Common Mistakes
+
+- Too short prompts
+- No lighting description
+- No style specification
+- Overloaded keywords
+
+---
+
+## FAQ
+
+### Do I need GPU?
+Yes, recommended NVIDIA GPU.
+
+### Can I use Lekhai offline?
+Yes, with supported models.
+
+### Is prompt quality important?
+Yes, it directly affects image output.
+
+---
+
+## Conclusion
+
+This repository helps you master **AI image generation locally in 2026**, combining technical setup + professional prompt engineering for best results.
+
+---
+
+## Reference
+[https://lekhai.app/]
